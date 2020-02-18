@@ -1,0 +1,5 @@
+type Buddy {
+  id: ID! @id
+  name: String!
+  image: String!
+}
