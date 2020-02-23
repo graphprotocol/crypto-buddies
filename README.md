@@ -1,6 +1,6 @@
 # Crypto Buddies
 
-This is a Gatsby React app interview challenge. Please push your code to a branch in this repo (following the instructions below).
+This is a Gatsby React app interview challenge. Please fork this repo, and push your code to a branch in your forked repo (following the instructions below).
 
 In this exercise you will create 2 pages. Use React, Apollo Client and the GraphQL endpoint that can be found here: https://eu1.prisma.sh/nevena-djaja/mocks/dev.
 
