@@ -18,7 +18,7 @@ Please create these 2 pages:
 - Make sure to implement the animations as they appear in the video.
 - The UI should be responsive.
 - Please use Apollo client with React hooks to query the data (packages should already be installed - check `package.json`).
-- Make GraphQL queries for the all the pages and for the search functionality. This resource might be helpful: https://www.prisma.io/docs/reference/prisma-api/queries-ahwee4zaey.
+- Make GraphQL queries for the all the pages and for the search functionality. This resource might be helpful: https://www.prisma.io/docs/reference/api-reference/prisma-client-reference.
 
 # Setup and Development
 
