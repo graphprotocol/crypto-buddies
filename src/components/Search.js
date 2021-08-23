@@ -5,7 +5,7 @@ const Search = ({ ...onChange }) => (
   <div
     sx={{
       paddingLeft: "40px",
-      width: "45%",
+      // width: "45%",
       marginTop: "9rem",
       display: "flex",
       alignItems: "flex-start",
@@ -22,7 +22,7 @@ const Search = ({ ...onChange }) => (
       sx={{
         cursor: "pointer",
         position: "relative",
-        top: "2rem",
+        top: "3.5rem",
       }}
     />
     <textarea
@@ -31,10 +31,11 @@ const Search = ({ ...onChange }) => (
       type="text"
       sx={{
         fontSize: "100px",
-        // height: '100%',
+        width: "45%",
         resize: "none",
         border: "0",
         fontWeight: "bold",
+        fontSize: "128px",
         color: "black",
         paddingLeft: "5rem",
         outline: "none",
